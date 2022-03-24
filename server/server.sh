@@ -1,4 +1,4 @@
-sh
+#sh
 #
 ##!/bin/bash
 #
